@@ -18,7 +18,7 @@ A Windows Forms application for tracking Forex and crypto trades.
 ## How to Run
 1. Clone the repository
 2. Open the `.sln` file in Visual Studio
-3. Ensure the `baza.accdb` file is present
+3. Ensure the `baza.accdb` file is present (change connection string)
 4. Press `F5` to run the app
 
 ## Screenshot
