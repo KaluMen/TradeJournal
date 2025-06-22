@@ -10,7 +10,7 @@ A Windows Forms application for tracking Forex and crypto trades.
 - Chart showing average daily PnL (Mon–Fri)
 
 ## Technologies
-- C# (.NET Framework 4.7.2)
+- C# (.NET Framework 4.x)
 - Windows Forms
 - Microsoft Access Database (.accdb)
 - ADO.NET (OleDb)
