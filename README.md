@@ -22,8 +22,10 @@ A Windows Forms application for tracking Forex and crypto trades.
 4. Press `F5` to run the app
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/f05d5d65-95c9-41e5-bb79-1c89d90ccdfe)
-![image](https://github.com/user-attachments/assets/bbe22114-d445-4bde-ac1d-1aa7bb43fd82)
+![image](https://github.com/user-attachments/assets/80372af2-bf18-4502-87c2-051fb806dc8b)
+![image](https://github.com/user-attachments/assets/8e26a00e-5790-42fc-a554-930a043b4e34)
+
+
 
 
 ## Author
