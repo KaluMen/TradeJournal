@@ -27,4 +27,4 @@ A Windows Forms application for tracking Forex and crypto trades.
 
 
 ## Author
-[Kalu Džedaj](https://github.com/KaluMen)
+[KaluMen](https://github.com/KaluMen)
